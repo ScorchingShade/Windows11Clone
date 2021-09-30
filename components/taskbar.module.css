@@ -1,0 +1,19 @@
+.taskbar{
+    bottom:0;
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    background-color: #f3f3f3;
+}
+
+
+.taskright{
+   position: absolute;
+   right: 0;
+   justify-self: flex-end;
+   margin: 6px 0;
+   
+
+}
