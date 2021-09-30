@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "file-loader": "^6.2.0",
+    "netlify-cli": "^6.9.28",
     "next": "11.1.2",
     "next-videos": "1.4.0",
     "react": "17.0.2",
